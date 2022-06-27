@@ -1,6 +1,6 @@
 # anti-afk
 Simple Python script that moves your mouse every ten seconds. </br>
-Keeps you from going afk in certain programs for example when you are working from home and don't want to appear as afk all the time.</br>
+Prevents you from going afk in certain programs. Convenient when working from home :D</br>
 
 ## installation
 I assume that Python is already installed on the device. If this is not the case you can do it [here](https://www.python.org/downloads/).</br></br>
